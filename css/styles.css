@@ -118,7 +118,7 @@ p {
   margin-right: 30px;
 }
 
-.chilli {
+.bug {
   width: 25%;
   float: right;
   margin-right: 30px;
@@ -153,7 +153,6 @@ p {
   display: inline-block;
   cursor: pointer;
   text-align: center;
-  margin-top: 50px;
   margin-bottom: 50px;
 }
 
@@ -178,7 +177,7 @@ p {
 
 .contact-msg {
   width: 40%;
-  margin: 40px auto 60px;
+  margin: 40px auto 40px;
 }
 
 .copyright {
