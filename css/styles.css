@@ -34,14 +34,12 @@ hr {
 }
 
 a {
-  color: #11999e;
-}
-
-a {
-  color: #11999e;
+  color: blue;
   font-family: "Montserrat", sans-serif;
   margin: 10px 20px;
   text-decoration: none;
+  font-size: 100%;
+  font-weight: bold;
 }
 a:hover {
   color: #eaf6f6;
